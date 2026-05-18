@@ -1,10 +1,6 @@
 # Smart ATS CV Generator
 
-![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Pandoc-FF0000?style=for-the-badge&logo=pandoc&logoColor=white)
+![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![alt text](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![alt text](https://img.shields.io/badge/Pandoc-FF0000?style=for-the-badge&logo=pandoc&logoColor=white)
 
 Este proyecto es una herramienta de automatización creada con Python, Ollama y Pandoc para generar currículums en formato Word (.docx) altamente optimizados para sistemas ATS (Applicant Tracking Systems).
 

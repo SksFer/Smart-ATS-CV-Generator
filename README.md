@@ -6,7 +6,7 @@ Este proyecto es una herramienta de automatización creada con Python, Ollama y 
 
 ## ¿Cómo funciona?
 1. **Base de Datos Maestra:** Toda la experiencia se almacena en `master_cv.yaml`.
-2. **IA Local:** Utiliza [Ollama](https://ollama.com/) (modelo Llama 3) para analizar una oferta laboral y extraer automáticamente las palabras clave (skills) más relevantes.
+2. **IA Local:** Utiliza [Ollama](https://ollama.com/) (escoge el modelo de tu interés, yo use gemma3:27b) para analizar una oferta laboral y extraer automáticamente las palabras clave (skills) más relevantes.
 3. **Filtrado:** El script filtra la experiencia en el YAML basándose en los tags extraídos por la IA.
 4. **Exportación:** Genera un documento Word con formato profesional (estilo Harvard) utilizando Pandoc.
 

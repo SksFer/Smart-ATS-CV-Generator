@@ -1,0 +1,80 @@
+personal:
+  nombre: "Fernando Antonio Quiroz Escobar"
+  telefono: "+56 9 71992348"
+  linkedin: "[Tu URL de LinkedIn aquí]"
+
+perfil: >
+  Astrónomo y Científico de Datos con más de 3 años de experiencia en el ciclo completo de vida de los datos, desde la ingeniería y el procesamiento (ETL) hasta el modelamiento predictivo y la visualización. Especializado en la aplicación de Python y SQL para transformar datos crudos y no estructurados en insights de negocio y soluciones de IA. Busco aplicar mi riguroso background cuantitativo y mis habilidades en Machine Learning para optimizar procesos, resolver problemas complejos y crear valor en un entorno industrial dinámico.
+
+proyectos:
+  - titulo: "Data Engineer y Analyst - Proyecto de Optimización de Procesos (NLP - Grafos)"
+    fecha: "Marzo 2025 - Marzo 2026"
+    descripcion: "Diseño de flujos de datos de extremo a extremo para la extracción, limpieza y persistencia de 15 años de información municipal no estructurada."
+    tags: ["data engineering", "nlp", "python", "etl", "eda", "sql"]
+    bullets:
+      - "Construir y mantener flujos de datos (ETL) para recopilar información desde múltiples fuentes, aplicando rutinas de pre-procesamiento: limpieza, imputación de nulos y cambios de formatos."
+      - "Realizar Análisis Exploratorio de Datos (EDA) y visualización mediante análisis de redes (NetworkX) para detectar ineficiencias y cuellos de botella en procesos operativos."
+      - "Logro aplicado: Optimizar la recuperación de datos mediante metodologías ágiles, comunicando resultados técnicos de manera efectiva a usuarios finales y sponsors del proyecto."
+
+  - titulo: "Machine Learning Engineer - Sistema de Reporte Radiológico Aumentado"
+    fecha: "Enero 2025 - Agosto 2025"
+    descripcion: "Diseño de un pipeline de IA de extremo a extremo para la detección de derrame pleural y la generación automática de informes, combinando Visión Computacional y NLP."
+    tags: ["machine learning", "computer vision", "ia", "python", "pytorch"]
+    bullets:
+      - "Implementar y entrenar un modelo de clasificación de imágenes basado en DenseNet-121 (PyTorch), alcanzando un AUC de 0.96 en el dataset MIMIC-CXR."
+      - "Innovar al integrar el clasificador con un Modelo de Lenguaje Multimodal (LLaVA) para generar descripciones en lenguaje natural de los hallazgos, demostrando capacidad en IA explicable (XAI)."
+
+  - titulo: "Data Scientist y Engineer - Modelamiento de Sensores y Procesos Físicos"
+    fecha: "Abril 2024 - Enero 2025"
+    descripcion: "Desarrollo de scripts en Python - Jupyter para el análisis y validación de datos provenientes de sensores (radiómetros), asimilable a procesos industriales."
+    tags: ["data science", "python", "sensores", "jupyter"]
+    bullets:
+      - "Liderar funciones de post-procesamiento de datos temporales, manejando inconsistencias y cruzando datos de variables ambientales críticas."
+      - "Optimizar flujos de datos existentes para recalibrar equipos, desarrollando pruebas funcionales para asegurar la calidad y consistencia de la información."
+      - "Logro aplicado: Mejorar significativamente la precisión de las lecturas, velando por la correcta ejecución de los scripts de calibración."
+
+  - titulo: "Data Engineer - Procesamiento Masivo y Visión Computacional (Tesis)"
+    fecha: "Enero 2024 - Julio 2025"
+    descripcion: "Procesamiento automatizado de grandes volúmenes de datos e imágenes para un catálogo de 1,438 sistemas estelares."
+    tags: ["data engineering", "sql", "git", "automatizacion"]
+    bullets:
+      - "Gestionar bases de datos complejas y diccionarios de datos, transformando 60,000 registros crudos en información estructurada lista para análisis (similar a lógicas de Data Lake)."
+      - "Implementar control de versiones estricto (Git) para todos los desarrollos analíticos."
+      - "Logro aplicado: Automatizar exitosamente un proceso de clasificación manual, mejorando tiempos de clasificación y optimizando recursos disponibles."
+
+habilidades:
+  - texto: "Habilidad en Python Avanzado (Pandas, Numpy, Scipy) y uso de Jupyter Notebooks, desarrollada y aplicada exhaustivamente en el modelamiento de sensores físicos y en el procesamiento automatizado de la tesis de grado."
+    tags: ["python", "data science"]
+  - texto: "Conocimientos en diseño de flujos ETL - ELT, limpieza de datos e imputación, adquiridos y ejecutados en el proyecto de optimización de procesos municipales y en la consolidación de Data Lakes."
+    tags: ["etl", "data engineering"]
+  - texto: "Uso de SQL intermedio y Bash (Linux), utilizados para gestionar diccionarios de datos complejos y estructurar más de 60,000 registros en catálogos estelares."
+    tags: ["sql", "bash", "linux"]
+  - texto: "Aplicación de Análisis Exploratorio de Datos (EDA) y Visualización (NetworkX), puestos en práctica para detectar ineficiencias y cuellos de botella en el proyecto de NLP e información municipal."
+    tags: ["eda", "visualizacion"]
+  - texto: "Implementación de Machine Learning y Visión Computacional (PyTorch, DenseNet-121, LLaVA), entrenados para la creación del pipeline analítico en el Sistema de Reporte Radiológico."
+    tags: ["machine learning", "ia", "computer vision"]
+  - texto: "Manejo de Control de versiones (Git), automatización de scripts y Docker, herramientas asimiladas y utilizadas de forma transversal en los desarrollos analíticos de proyectos e investigaciones."
+    tags: ["git", "docker", "automatizacion"]
+  - texto: "Uso de Metodologías ágiles (Scrum - Kanban) y pruebas funcionales, empleadas para mantener la fluidez del flujo de trabajo, asegurar la calidad de calibración de equipos y reportar avances a sponsors."
+    tags: ["scrum", "agile"]
+  - texto: "Conocimientos teóricos y prácticos en herramientas GIS (espaciales), adquiridos durante la formación del Minor en Ciencia de Datos."
+    tags: ["gis"]
+  - texto: "Nivel de Inglés (Avanzado), perfeccionado mediante la revisión exhaustiva de literatura técnica y la redacción de reportes científicos en la universidad y proyectos aplicados."
+    tags: ["ingles"]
+
+educacion:
+  - titulo: "Título Profesional de Astrónomo"
+    institucion: "Universidad de Concepción, Chile"
+    fecha: "Año 2025"
+    descripcion: "Formación fuertemente cuantitativa y algorítmica, equivalente afín a Ingeniería."
+  - titulo: "Minor en Ciencia de Datos"
+    institucion: "Universidad de Concepción, Chile"
+    fecha: "Año 2025"
+    descripcion: "Foco en Modelamiento Estadístico, Base de Datos y Machine Learning."
+
+extra:
+  - titulo: "Ayudante de Cátedra — Data Science"
+    institucion: "Departamento de Ingeniería, Universidad de Concepción"
+    fecha: "Marzo 2023 - Agosto 2023"
+    bullets:
+      - "Desarrollar pensamiento lógico y habilidades de resolución de problemas fundamentales aplicados a la ingeniería en el alumnado."
